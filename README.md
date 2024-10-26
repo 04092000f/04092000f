@@ -9,7 +9,6 @@ A Computer Vision Engineer enthusiast with 18 months of experience at Interprodu
 - **Machine Learning**
 - **Deep Learning** 
 - **Computer Vision**
-  - Feature Extraction and Matching Algorithms
 - **Programming**
 - **Data Annotation**
 
@@ -26,8 +25,6 @@ A Computer Vision Engineer enthusiast with 18 months of experience at Interprodu
 
 ### 🌱 Current Learning
 Diving deeper into advanced deep learning techniques and exploring the latest trends in computer vision.
-
-## 📂 Projects
 
 ## 📫 How to Reach Me
 Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.com) 
