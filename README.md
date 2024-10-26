@@ -86,7 +86,7 @@ I’m currently diving deeper into advanced deep learning techniques and explori
 
 ## 📫 Connect with Me
 
-Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/) or [GitHub]([your-github-url](https://github.com/04092000f)).
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/) or [GitHub](https://github.com/04092000f).
 
 ---
 
