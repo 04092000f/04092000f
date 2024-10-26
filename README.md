@@ -45,9 +45,9 @@ Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.c
 I’m always open to discussing new ideas and opportunities. Feel free to reach out!
 
 ## 🌐 Social Media
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/04092000f)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/)  
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg)](https://www.instagram.com/04092000f/)  
+<a href="https://github.com/04092000f" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30"></a>
+<a href="https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30"></a>
+<a href="https://www.instagram.com/04092000f/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=04092000f&show_icons=true)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=04092000f)  
