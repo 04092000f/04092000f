@@ -29,9 +29,9 @@ A Computer Vision Engineer enthusiast with 18 months of experience at Interprodu
   - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
 
 - **Web Frameworks**:
-  - Django
-  - Flask
-  - Streamlit
+  - ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  - ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  - ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### 🌱 Current Learning
 Diving deeper into advanced deep learning techniques and exploring the latest trends in computer vision.
