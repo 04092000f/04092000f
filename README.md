@@ -38,12 +38,6 @@ Diving deeper into advanced deep learning techniques and exploring the latest tr
 
 ## 📂 Projects
 
-
-## 🎨 Interests
-- Photography
-- AI Ethics
-- Open-source contributions
-
 ## 📫 How to Reach Me
 Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.com) 
 
