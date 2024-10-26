@@ -1,4 +1,4 @@
-# Furqan Sayyed 👋
+# Hello Folks, I am Furqan Sayyed 👋
 ### Computer Vision Engineer 
 
 A Computer Vision Engineer enthusiast with 18 months of experience at Interproductec Virtual Labs PVT LTD. My passion lies in leveraging technology to solve real-world problems through innovative image processing and machine learning techniques.
