@@ -36,8 +36,6 @@ A Computer Vision Engineer enthusiast with 18 months of experience at Interprodu
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/04092000f)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/04092000f/)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/04092000f)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/04092000f/)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=04092000f&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=04092000f)  
