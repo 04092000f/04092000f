@@ -3,7 +3,7 @@
 
 A Computer Vision Engineer enthusiast with 1.5 years of experience. My work lies in leveraging technology to solve real-world problems through innovative computer vision and machine learning techniques.
 
-## 🛠️ Key Skills
+## Key Skills
 - **Computer Vision**
 - **Machine Learning**
 - **Deep Learning**
@@ -32,12 +32,12 @@ A Computer Vision Engineer enthusiast with 1.5 years of experience. My work lies
 
 
 
-## 📫 How to Reach Me
+## How to Reach Me
 Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.com). I’m always open to discussing new ideas and opportunities. Feel free to reach out!
 
 
 
-## 🌐 Social Media
+## Social Media
 <a href="https://github.com/04092000f" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" height="30"></a>
 <a href="https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="30"></a>
 <a href="https://www.instagram.com/04092000f/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="30"></a>
