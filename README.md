@@ -38,7 +38,7 @@ Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.c
 
 
 ## 🌐 Social Media
-<a href="https://github.com/04092000f" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="30"></a>
+<a href="https://github.com/04092000f" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" alt="GitHub" height="30"></a>
 <a href="https://www.linkedin.com/in/sayyed-furqan-hussain-6b31071a6/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="30"></a>
 <a href="https://www.instagram.com/04092000f/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="30"></a>
 
