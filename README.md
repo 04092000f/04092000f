@@ -5,6 +5,8 @@ A Computer Vision Engineer enthusiast with 1.5 years of experience. My work lies
 
 ## Key Skills
 - **Computer Vision**
+- **Image Classification**
+- **Object Detection**
 - **Machine Learning**
 - **Deep Learning**
 - **Artificial Intelligence**
