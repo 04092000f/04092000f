@@ -43,4 +43,3 @@ Feel free to drop an email at [furqansa344@gmail.com](mailto:furqansa344@gmail.c
 <a href="https://www.instagram.com/04092000f/" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="30"></a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=04092000f&show_icons=true)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=04092000f)  
