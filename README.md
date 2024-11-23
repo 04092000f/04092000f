@@ -15,7 +15,7 @@ A Computer Vision Engineer enthusiast with 1.5 years of experience. My work lies
 ## Technical Skills
 
 - **Programming Languages**: 
-  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 
 - **Libraries & Frameworks**:
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white&size=40x40) 
@@ -28,9 +28,9 @@ A Computer Vision Engineer enthusiast with 1.5 years of experience. My work lies
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white&size=40x40)
 
 - **Web Frameworks**:
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&size=40x40) 
-  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white&size=40x40) 
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white&size=40x40)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white&size=40x40) 
+  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white&size=40x40) 
+  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white&size=40x40)
 
 
 
