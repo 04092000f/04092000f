@@ -1,7 +1,7 @@
 # Hello Folks, I am Furqan Sayyed
 ### Computer Vision Engineer 
 
-A Computer Vision Engineer with 1.5 years of experience. My work lies in leveraging technology to solve real-world problems through innovative computer vision and machine learning techniques.
+A Computer Vision Engineer with 2 years of experience. My work lies in leveraging technology to solve real-world problems through innovative computer vision and machine learning techniques.
 
 ## Key Skills
 - **Computer Vision**
